@@ -1,4 +1,4 @@
-
+[
 	{
 		"front": "World War I began after the assassination of who?",
 		"back": "Arch-Duke Ferdinand"
@@ -32,11 +32,11 @@
 		"back": "Cambodia"
 	},
 	{
-		"front": "Who was the famous 5th century A.D conqueror who was known as "The Scourge of God"?",
+		"front": "Who was the famous 5th century A.D conqueror known as 'The Scourge of God'?",
 		"back": "Atilla the Hun"
 	},
 	{
 		"front": "Who was the first Western explorer to reach China?",
 		"back": "Marco Polo"
 	}
-
+]

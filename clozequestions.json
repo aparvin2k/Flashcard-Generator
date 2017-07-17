@@ -1,4 +1,4 @@
-
+[
 	{
 		"full": "Bruce Wayne is Batman.",
 		"cloze": "Bruce"
@@ -39,4 +39,5 @@
 		"full": "Tony Stark is Ironman.",
 		"cloze": "Tony"
 	}
+]
 
