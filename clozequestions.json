@@ -1,0 +1,42 @@
+
+	{
+		"full": "Bruce Wayne is Batman.",
+		"cloze": "Bruce"
+	},
+	{
+		"full": "Peter Parker is Spider-man?",
+		"cloze": "Peter"
+	},
+	{
+		"full": "Kal-El is Superman.",
+		"cloze": "Kal"
+	},
+	{
+		"full": "Logan is Wolverine's real name.",
+		"cloze": "Logan"
+	},
+	{
+		"full": "Barry Allen is the Flash.",
+		"cloze": "Barry"
+	},
+	{
+		"full": "Charles Xavier is Professor X.",
+		"cloze": "Charles"
+	},
+	{
+		"full": "Hal Jordan is the first Green Lantern of Earth.",
+		"cloze": "Hal"
+	},
+	{
+		"full": "Steve Rodgers is Captain America.",
+		"cloze": "Steve"
+	},
+	{
+		"full": "Victor Stone is Cyborg.",
+		"cloze": "Victor"
+	},
+	{
+		"full": "Tony Stark is Ironman.",
+		"cloze": "Tony"
+	}
+
